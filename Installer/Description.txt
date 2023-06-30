@@ -1,0 +1,4 @@
+ไว้ใช้ resigist services to Program.cs
+
+--- การทำ ​extension in C#
+ หลักกการ

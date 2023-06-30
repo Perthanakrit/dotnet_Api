@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "W1UL0Z/7s5ot7Bvpbpiphkf6tRiR9pJqF41xmz9+TNA=",
+  "Source": "dotnet_Api",
+  "BasePath": "_content/dotnet_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnet_Api/wwwroot",
+      "Source": "dotnet_Api",
+      "ContentRoot": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/",
+      "BasePath": "_content/dotnet_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/.DS_Store",
+      "SourceId": "dotnet_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/",
+      "BasePath": "_content/dotnet_Api",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/descraption.txt",
+      "SourceId": "dotnet_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/",
+      "BasePath": "_content/dotnet_Api",
+      "RelativePath": "descraption.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/descraption.txt"
+    },
+    {
+      "Identity": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/Images/ace9a54b-e0ce-4cbb-8aa3-25c190fa5ec8.png",
+      "SourceId": "dotnet_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/",
+      "BasePath": "_content/dotnet_Api",
+      "RelativePath": "Images/ace9a54b-e0ce-4cbb-8aa3-25c190fa5ec8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/ace9a54b-e0ce-4cbb-8aa3-25c190fa5ec8.png"
+    },
+    {
+      "Identity": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/Images/b6470dbb-fc83-44a7-9842-1fbfe16f032a.png",
+      "SourceId": "dotnet_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/",
+      "BasePath": "_content/dotnet_Api",
+      "RelativePath": "Images/b6470dbb-fc83-44a7-9842-1fbfe16f032a.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/b6470dbb-fc83-44a7-9842-1fbfe16f032a.png"
+    }
+  ]
+}

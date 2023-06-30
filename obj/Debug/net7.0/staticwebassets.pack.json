@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/Images/ace9a54b-e0ce-4cbb-8aa3-25c190fa5ec8.png",
+      "PackagePath": "staticwebassets/Images/ace9a54b-e0ce-4cbb-8aa3-25c190fa5ec8.png"
+    },
+    {
+      "Id": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/Images/b6470dbb-fc83-44a7-9842-1fbfe16f032a.png",
+      "PackagePath": "staticwebassets/Images/b6470dbb-fc83-44a7-9842-1fbfe16f032a.png"
+    },
+    {
+      "Id": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/wwwroot/descraption.txt",
+      "PackagePath": "staticwebassets/descraption.txt"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.dotnet_Api.props",
+      "PackagePath": "build\\dotnet_Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.dotnet_Api.props",
+      "PackagePath": "buildMultiTargeting\\dotnet_Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.dotnet_Api.props",
+      "PackagePath": "buildTransitive\\dotnet_Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.dotnet_Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

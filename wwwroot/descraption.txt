@@ -1,0 +1,2 @@
+wwwroot contains static files;
+Ex. img html css js sound
