@@ -27,8 +27,8 @@ builder.Host.ConfigureContainer<ContainerBuilder>(builder =>
     .AsImplementedInterfaces();
 });
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+//builder.Services.AddScoped<IAccountService, AccountService>();
+
 
 var app = builder.Build();
 
@@ -46,6 +46,8 @@ app.UseStaticFiles();
 app.UseHttpsRedirection(); // auto http to https
 
 app.UseCors("AllowSpeificOrigins");
+
+app.UseAuthentication();
 
 app.UseAuthorization(); // ตัวสอบสิทธิ
 

@@ -2,3 +2,17 @@
 
 --- การทำ ​extension in C#
  หลักกการ
+
+
+-- JWT (JSON Web token) ---
+
+{
+    "xxx" : true,
+    "yyyy" : {...}  
+}
+
+convert JSON to token  ( => fahfkhdsuf )
+
+  จากนั้น นำtoken keep in memory database เพื่อเพิ่ม performance โดยสามารถใช้database no sql (ex. MongoDB)
+
+    * มีวิธ๊อื่นอีกมากกมาย

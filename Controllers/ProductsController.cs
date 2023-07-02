@@ -4,11 +4,14 @@ using System.Net;
 using dotnet_Api.DTOs.Product;
 using Mapster;
 using dotnet_Api.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace dotnet_Api.Controllers;
 
 [ApiController]
 [Route("[controller]")] //... localhost: 5001/weatherforecast [] -> data unknowtation
+[Authorize(Roles = "Admin, Cashier")]
+
 public class ProductsController : ControllerBase
 {
     private readonly IProductService _productService;

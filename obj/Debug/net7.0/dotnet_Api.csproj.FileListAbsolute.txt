@@ -79,3 +79,4 @@
 /Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/bin/Debug/net7.0/Autofac.dll
 /Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll
 /Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/bin/Debug/net7.0/dotnet_Api.staticwebassets.runtime.json
+/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

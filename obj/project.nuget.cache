@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G4YORIBD9HSat4qM+qKD++F23HF2SkYb6zQ5TMvg9bEjC/iAn3sqjp2yzlR8CLrFk138yppzrn5t8fGpywUndA==",
+  "dgSpecHash": "pKdSoZySRdgcMeBx1hosj/95YeKVSlur6XAGP8r6I2nLhJRty8eCvgOlV+liPpnasj7fs50ExxW9hV7W0caFmQ==",
   "success": true,
   "projectFilePath": "/Users/thanakrittrakanjan/Documents/Coding/dotnet_Api/dotnet_Api.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "/Users/thanakrittrakanjan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/thanakrittrakanjan/.nuget/packages/mapster/7.3.0/mapster.7.3.0.nupkg.sha512",
     "/Users/thanakrittrakanjan/.nuget/packages/mapster.core/1.2.0/mapster.core.1.2.0.nupkg.sha512",
+    "/Users/thanakrittrakanjan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.8/microsoft.aspnetcore.authentication.jwtbearer.7.0.8.nupkg.sha512",
     "/Users/thanakrittrakanjan/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/thanakrittrakanjan/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/thanakrittrakanjan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
