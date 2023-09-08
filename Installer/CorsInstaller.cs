@@ -13,7 +13,7 @@ namespace dotnet_Api.Installer
             {
                 options.AddPolicy("AllowSpeificOrigins", builder =>
                 {
-                    builder.WithOrigins("https://www.w3schools.com")
+                    builder.WithOrigins("https://www.w3schools.com", "http://localhost:3000/")
                     .AllowAnyHeader()
                     .AllowAnyMethod();
                 });
